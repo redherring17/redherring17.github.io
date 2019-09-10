@@ -1,4 +1,4 @@
-# My Name
+# Stephanie Reno
 
 ### I am an artist. This is my portfolio site.
 
